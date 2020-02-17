@@ -1,3 +1,7 @@
+-----------cool websites------------------
+box-shadow generator:  https://brumm.af/shadows
+
+
 //gives a nice center effect
 .body{
   width:80%;
