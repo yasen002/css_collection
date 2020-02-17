@@ -39,3 +39,7 @@ figcaption strong {
 	font-weight: 700;
 	display: block;
 }
+
+.gallery figure:hover img {
+  filter: blur(2px);
+}
