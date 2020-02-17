@@ -1,0 +1,5 @@
+//gives a nice center effect
+.body{
+  width:80%;
+  margin:0 auto;
+}
