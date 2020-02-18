@@ -1,9 +1,12 @@
 -----------cool websites------------------
 box-shadow generator:  https://brumm.af/shadows
 
+css filter: https://www.w3schools.com/CSSref/playit.asp?filename=playcss_filter&preval=sepia(100%25)
 
 //gives a nice center effect
 .body{
   width:80%;
   margin:0 auto;
 }
+
+//by putting parent width to 'auto' will set the width to 100% and then we can use percentage width for children of the parent tag.
