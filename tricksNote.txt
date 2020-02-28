@@ -10,3 +10,29 @@ css filter: https://www.w3schools.com/CSSref/playit.asp?filename=playcss_filter&
 }
 
 //by putting parent width to 'auto' will set the width to 100% and then we can use percentage width for children of the parent tag.
+
+
+tyograhy guidlines: 
+1. 15~25px content font size.
+2. headline font size: 
+3. line spacing: 120~150%
+4. 45~90 char per line (easy to follow)
+5. sans-serif: .more neutral .clean .simple .modern websites
+   serif: .traditional purposes .storytelling .long reading
+   recomanded sans-serif: .open sans .lato .raleway .monsterrat .pt sans
+   recomanded serif: .cardo .merriweather .PT serif
+
+Color:
+1. use only one base color. resourse to choose UI base color: 
+   https://flatuicolors.com/        https://www.0to255.com/
+   create a color pallate
+2. use color to draw attention
+3. don't use black in your design. it doesn't look natural
+4. use the tone of color. colors have meanings
+
+Image:
+1. how to put text directly on top of Image
+2. overlay the image with a color make to text show 
+3. can also put text in a opaque, transparent box and place it on top of image
+4. can also use blur on image to show the text
+5. can also use  floor fade. it increase the text readability.
