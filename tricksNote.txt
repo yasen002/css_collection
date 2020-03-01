@@ -3,6 +3,8 @@ box-shadow generator:  https://brumm.af/shadows
 
 css filter: https://www.w3schools.com/CSSref/playit.asp?filename=playcss_filter&preval=sepia(100%25)
 
+web-example-template: https://www.nisomac.com/
+
 //gives a nice center effect
 .body{
   width:80%;
