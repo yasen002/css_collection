@@ -11,6 +11,13 @@ web-example-template: https://www.nisomac.com/
   margin:0 auto;
 }
 
+//creates a sticky footer:
+//add a min-height to the main content, set it to 100vh - footerHeight
+.main-content{
+  min-height: calc(100vh-$footerHeight); 
+}
+
+
 //by putting parent width to 'auto' will set the width to 100% and then we can use percentage width for children of the parent tag.
 
 
