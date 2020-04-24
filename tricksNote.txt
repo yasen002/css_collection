@@ -45,3 +45,10 @@ Image:
 3. can also put text in a opaque, transparent box and place it on top of image
 4. can also use blur on image to show the text
 5. can also use  floor fade. it increase the text readability.
+
+
+//udemy css:
+basic responsive design principles:
+1.fluid grids and layouts
+2.flexible/responsive images
+3.media queries
