@@ -52,3 +52,7 @@ basic responsive design principles:
 1.fluid grids and layouts
 2.flexible/responsive images
 3.media queries
+
+cllection of all cdns:
+https://cdnjs.com/
+
