@@ -56,3 +56,12 @@ basic responsive design principles:
 cllection of all cdns:
 https://cdnjs.com/
 
+direct child selector:
+.className > *{}
+will select the first child.
+.className *{} is every child.
+example:
+.boxName{
+	transform: skewY(-7deg);
+}
+.boxName > *{tranform: skew(7deg); }
